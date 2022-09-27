@@ -44,8 +44,8 @@ Tech: Cordova, nodejs, angularjs@1.x
 A web application to connect point to point to provide video call function and notice reading function.
 Tech: Webrtc, Chromium, Nodejs, JS
 
-## - BLE Vital Sign
+## BLE Vital Sign
 Get signal from Vital Sign Machine with BLE and feed the data to hospital's application
 
-## - Paperless ECG
+## Paperless ECG
 Get signal and file from ECG machine with an Raspberry Pi and feed data to hospital system.
