@@ -6,4 +6,4 @@ Designed an Electric Wine Lock from scratch. Tech: onshap CAD for 3D modeling, 3
 
 Here is the core of the lock, all parts print by 3D printer.
 
-![alt text](https://github.com/pitapun/Projects/blob/main/Electric%20Wine%20Lock/start-from-scratch.jpg?raw=true)
+![alt text](start-from-scratch.jpg?raw=true)
