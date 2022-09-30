@@ -7,13 +7,29 @@ Tech: Vue, Vuetify, Nodejs, Node-red, Mysql, Debian, Docker, Docker-compose, Gra
 
 Dashboard can show status clearly and can get alert when any event triggered.
 
-![alt text](https://github.com/pitapun/Projects/blob/main/Smart%20Toilet%20Solution/Smart-Toilet-1-1.png?raw=true)
+![alt text](Smart-Toilet-1-1.jpg)
 
 ## Dashboard for administrator
 
 Dashboard can show status clearly and can get alert when any event triggered.
 
-![alt text](https://github.com/pitapun/Projects/blob/main/Smart%20Toilet%20Solution/dashboard.png?raw=true)
+![alt text](dashboard.png)
+
+## Distance Sensor for Papar towel, rubbish bin and Soap.
+
+![sensors](DistanceSensor.jpg)
+
+## Smoke Sensor
+
+![smoke](SmokeSensor.jpg)
+
+## Soap Sensor
+
+![smoke](Soap.jpg)
+
+## PIR Sensor for detect human
+
+![pir](PIR.jpg)
 
 ## Testing video
 

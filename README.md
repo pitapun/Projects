@@ -14,11 +14,12 @@ A smart toilet solution including paper, trush and soap monitoring, smoke alert 
 Alert message will send to client when event triggered and client can analysis data for further action.
 Tech: Vue, Vuetify, Nodejs, Node-red, Mysql, Debian, Docker, Docker-compose, Grafana
 
-## IOT Sensor
-Custom made IoT Sensor for difference 
+## [IOT Sensor](IOT%20Sensor)
+Custom made IoT Sensor for difference usage
 - Wifi Sensor -> ESP32 chips develop for wifi sensor including Distance sensor, Smoke sensor, Water leakage sensor, liquid level sensor
 - Zigbee Sensor -> We Flashed Tasmota firmware in a ESP32 zigbee bridge in order to connnect all zigbee devices.
 - LoraWan Sensor ->Development with lora chips running with 3.7v battary and stand for over 2 years.
+Tech: PCB, EDA, CAD, 3D Design, PCB Design
 
 ## [Building Management System](Building%20Management%20System)
 Connected all building environment such as door contact, water level and bump status to IoT platform, so that user can get alert when any event triggered.
@@ -40,12 +41,14 @@ Tech: Homeassistant, Node-red, wifi switch, wifi IR control
 An mobile application to scan an barcode on product and check if any inventory in stock.
 Tech: Cordova, nodejs, angularjs@1.x
 
-## Video Conferencing Machine
+## [Video Conferencing Machine](Video%20Conferencing%20Machine)
 A web application to connect point to point to provide video call function and notice reading function.
 Tech: Webrtc, Chromium, Nodejs, JS
 
-## BLE Vital Sign
-Get signal from Vital Sign Machine with BLE and feed the data to hospital's application
+## [BLE Health Device](BLE%20Health%20Device)
+Get signal from Vital Sign Machine with BLE and feed the data to hospital's application.
+Tech: BLE, nodejs, python, bleno
 
-## Paperless ECG
+## [Paperless ECG](Paperless%20ECG)
 Get signal and file from ECG machine with an Raspberry Pi and feed data to hospital system.
+Tech: nodejs, vuejs, Linux, SFTP
