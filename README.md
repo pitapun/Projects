@@ -20,23 +20,23 @@ Custom made IoT Sensor for difference
 - Zigbee Sensor -> We Flashed Tasmota firmware in a ESP32 zigbee bridge in order to connnect all zigbee devices.
 - LoraWan Sensor ->Development with lora chips running with 3.7v battary and stand for over 2 years.
 
-## [Building Management System](Building%20Management%20System/README.md)
+## [Building Management System](Building%20Management%20System)
 Connected all building environment such as door contact, water level and bump status to IoT platform, so that user can get alert when any event triggered.
 Tech: IO control with mqtt function, vue, node-red
 
-## [Electric Wine Lock](Electric%20Wine%20Lock/README.md)
+## [Electric Wine Lock](Electric%20Wine%20Lock)
 Designed an Electric Wine Lock from scratch.
 Tech: onshap CAD for 3D modeling, 3D printing, ESP32 MCU
 
-## [Name Card Pass](Name%20Card%20Pass/README.md)
+## [Name Card Pass](Name%20Card%20Pass)
 Designed a name card recognize application for shuttle bus to make sure passenger came from their company.
 Tech: Tensorflow JS 
 
-## [Smart Office](Smart%20Office/README.md)
+## [Smart Office](Smart%20Office)
 Control all wifi power switch with homeassistant and node-red, light and air conditioner will turn off when there is no people in order to save power, and turn on all the light and air conditioner when any people go in the meeting room. 
 Tech: Homeassistant, Node-red, wifi switch, wifi IR control
 
-## [Stock Checker](Stock%20Checker/README.md)
+## [Stock Checker](Stock%20Checker)
 An mobile application to scan an barcode on product and check if any inventory in stock.
 Tech: Cordova, nodejs, angularjs@1.x
 
