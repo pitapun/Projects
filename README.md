@@ -1,6 +1,7 @@
 # Projects
  
 ### @Pita Pun
+[![gmail](https://img.shields.io/twitter/url?label=Email%20Me&logo=gmail&style=social&url=http%3A%2F%2Fgmail.com)](mailto:pitapun@gmail.com)
 [![Smart solution video](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpita-pun-27924966b%2F)](https://www.linkedin.com/in/pita-pun-27924966/)
 [![Smart solution video](https://img.shields.io/twitter/url?label=WhatsApp&logo=WhatsApp&style=social&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D93866086%26text%3DPlease%2520Find%2520Me%2520if%2520You%2520Need)](https://wa.me/+85293866086?text=Hi%20Mr%20Pun)
  
