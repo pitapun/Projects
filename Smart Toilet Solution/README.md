@@ -1,6 +1,6 @@
 # Smart Toilet Solution
-A smart toilet solution including paper, trush and soap monitoring, smoke alert and toilet occupancy. 
-Alert message will send to client when event triggered and client can analysis data for further action.
+A smart toilet solution including paper, rubbish bin and soap monitoring, smoke alert and toilet occupancy.
+Alert messages will be sent to the client when the event is triggered and the client can analyze data for further action.
 Tech: Vue, Vuetify, Nodejs, Node-red, Mysql, Debian, Docker, Docker-compose, Grafana
 
 ## Display for client
