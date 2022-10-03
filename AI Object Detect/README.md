@@ -1,6 +1,7 @@
 # AI Object Detect
 
 Trained an AI model with darknet and yolo to recognize car plates. 
+
 Tech: Darknet, Yolov3, Opencv
 
 ## An Demo video here:

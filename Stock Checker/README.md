@@ -1,6 +1,7 @@
 # Stock Checker
 
 An mobile application to scan a barcode on a product and check if there is any inventory in stock.
+
 Tech: Cordova, nodejs, angularjs@1.x
 
 There are two parts need to be developed

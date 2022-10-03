@@ -36,3 +36,5 @@
 ## LoraWan Distance Sensor
 
 ![alt text](LoraWan%20Distance%20Sensor.jpg)
+
+Tech: PCB, EDA, CAD, 3D Design, PCB Design

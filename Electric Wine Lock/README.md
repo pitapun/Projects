@@ -1,6 +1,7 @@
 # Electric Wine Lock
 
 Designed an Electric Wine Lock from scratch.
+
 Tech: onshape CAD for 3D modeling, 3D printing, ESP32 MCU
 
 ## The core of the lock
