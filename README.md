@@ -50,5 +50,5 @@ Get signal from Vital Sign Machine with BLE and feed the data to hospital's appl
 Tech: BLE, nodejs, python, bleno
 
 ## [Paperless ECG](Paperless%20ECG)
-Get signal and file from ECG machine with an Raspberry Pi and feed data to hospital system.
+Get signal and file from ECG machine with a Raspberry Pi and feed data to hospital system.
 Tech: nodejs, vuejs, Linux, SFTP
