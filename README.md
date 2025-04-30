@@ -9,7 +9,7 @@
 
 Light for picking on shell
 
-Tech: Darknet, Yolov3, Opencv
+Tech: ESP32, CAD, PCB Design
 
 ## [AI Object Detect](AI%20Object%20Detect)
 
